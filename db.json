@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "text": "This is my first note!",
+      "date": "02/14/2022"
+    },
+    {
+      "id": "2",
+      "text": "This is my second note!",
+      "date": "02/10/2022"
+    },
+    {
+      "id": "1732614583731",
+      "text": "Ferrari\nRed Bull",
+      "date": "26/11/2024"
+    },
+    {
+      "id": "1732614598829",
+      "text": "Max Verstappen\nLewis Hamilton",
+      "date": "26/11/2024"
+    },
+    {
+      "id": "1733116127291",
+      "text": "Red Bull",
+      "date": "2/12/2024"
+    }
+  ]
+}
