@@ -1,5 +1,5 @@
 # React Notes App
-By: Payden Dyer
+
 
 Web App that can add and delete notes
 
