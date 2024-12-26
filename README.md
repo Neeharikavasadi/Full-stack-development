@@ -56,7 +56,7 @@ Before starting, make sure you have the following:
    npm start
    ```
 
-##👨‍💻 Usage Guide
+## 👨‍💻 Usage Guide
 Once the application is running, you can:
 - Add a note by typing in the textarea and clicking "Save".
 - Delete a note by clicking the delete icon next to it.
